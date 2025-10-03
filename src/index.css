@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --bg-dark: 226 22% 4%;
-  --bg-card: 222 17% 10%;
-  --text: 240 7% 92%;
-  --gold: 45 60% 50%;
-  --gold-dark: 45 60% 40%;
-  --blue: 231 72% 57%;
-  --subtext: 240 5% 72%;
-  --stroke: 224 15% 14%;
+  --bg-dark: 226, 22%, 4%;
+  --bg-card: 222, 17%, 10%;
+  --text: 240, 7%, 92%;
+  --gold: 45, 60%, 50%;
+  --gold-dark: 45, 60%, 40%;
+  --blue: 231, 72%, 57%;
+  --subtext: 240, 5%, 72%;
+  --stroke: 224, 15%, 14%;
 }
 
 html, body, #root {

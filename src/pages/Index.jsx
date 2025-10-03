@@ -66,14 +66,6 @@ const Index = () => {
 
           {/* Buttons */}
           <div className="pt-10 flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <Button 
-              onClick={() => navigate("/auth")}
-              size="lg"
-              className="bg-gold hover:bg-gold-dark text-black px-10 py-6 text-lg font-semibold hover-lift shadow-lg"
-            >
-              Connect with Jai
-              <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
 
             <Button 
               onClick={() => navigate("/vision")}
